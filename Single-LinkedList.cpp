@@ -203,13 +203,12 @@ li.insertLast(6);
 li.ishere(6);
 li.sort();
 li.print();
-//string url = "https://www.youtube.com/watch?v=UTWC74XRr7Q";
-//ShellExecute(NULL , "open" , url.c_str() ,NULL , NULL , SW_SHOWNORMAL);
+
 return 0;
 }
 
-
-
+///لينك لمسائل
+///https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=linked-list
 
 
 
